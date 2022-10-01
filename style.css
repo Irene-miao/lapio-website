@@ -1,5 +1,21 @@
-p {
-background-color: red;
+h1 {
+color: blue;
+}
+
+h2 {
+color:brown;
+}
+
+h3, li, p, figcaption, a, em {
+color: orange;
+}
+
+.red {
+color: red;
+}
+
+.purple {
+color: purple;
 }
 
 
