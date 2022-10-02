@@ -1,27 +1,32 @@
 p {
 height: 100px;
 width: 200px;
+text-align: center;
+color: blue;
+text-transform: uppercase;
+padding-top: 30px;
+font-size: 18px;
 }
 
 
 .red {
 background-color: red;
-padding-top: 20px;
+border: 20px solid green;
 }
 
 
 .yellow {
 background-color: yellow;
-padding-top: 20px;
 position: absolute;
 left: 250px;
 top: 0px;
+border: 20px solid red;
 }
 
-.green {x
+.green {
 background-color: green;
-padding-top: 20px;
 position: absolute;
 left: 500px;
 top: 0px;
+border: 20px solid yellow;
 }
