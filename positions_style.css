@@ -1,14 +1,16 @@
-.red {
+p {
 height: 100px;
 width: 200px;
+}
+
+
+.red {
 background-color: red;
 padding-top: 20px;
 }
 
 
 .yellow {
-height: 100px;
-width: 200px;
 background-color: yellow;
 padding-top: 20px;
 position: absolute;
@@ -16,9 +18,7 @@ left: 250px;
 top: 0px;
 }
 
-.green {
-height: 100px;
-width: 200px;
+.green {x
 background-color: green;
 padding-top: 20px;
 position: absolute;
